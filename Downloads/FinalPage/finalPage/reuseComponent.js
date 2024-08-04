@@ -1,4 +1,4 @@
-2// reuse.js
+// reuse.js
 import React from 'react';
 import { Text, Image, Button, TextInput, StyleSheet, TouchableOpacity, View, CheckBox } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
